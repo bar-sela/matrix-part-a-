@@ -4,7 +4,6 @@ using namespace std;
 
 
 namespace zich {
-	vector<double> a = { 0 };
 	Matrix q;
 
 	bool Matrix::operator==(const Matrix&) { return true; }
